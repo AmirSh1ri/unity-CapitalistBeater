@@ -26,9 +26,14 @@ This project was built to explore **AI behavior, gameplay state management, abil
 ---
 
 ## Project Status
-In active development
+Finished Uploaded On Itch
 
 ---
 
+## Gameplay And Download Link
+https://milkythethird.itch.io/capitalistbeater
+https://www.youtube.com/watch?v=RqX9CZ9n9tI
+
+---
 ## License
 MIT License

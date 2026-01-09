@@ -32,6 +32,7 @@ Finished Uploaded On Itch
 
 ## Gameplay And Download Link
 https://milkythethird.itch.io/capitalistbeater
+
 https://www.youtube.com/watch?v=RqX9CZ9n9tI
 
 ---

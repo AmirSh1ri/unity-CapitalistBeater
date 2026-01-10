@@ -37,4 +37,8 @@ https://www.youtube.com/watch?v=RqX9CZ9n9tI
 
 ---
 ## License
-MIT License
+All Rights Reserved.
+
+This project is shared for portfolio and viewing purposes only.
+No permission is granted to copy, modify, or redistribute the code or assets.
+

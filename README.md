@@ -5,6 +5,9 @@ A single-player Unity action game focused on **enemy AI, close-range combat, and
 Zombie enemies actively **track and pursue the player**, engaging in boxing-style combat. The game emphasizes **modular C# systems**, responsive combat mechanics, and a dynamic UI that provides real-time feedback to the player.
 
 This project was built to explore **AI behavior, gameplay state management, ability cooldown systems, and UI integration** within Unity.
+| | |
+|---|---|
+| <img width="400" src="https://github.com/user-attachments/assets/d002207e-876e-4a6b-adc6-a11dacd1eea9" /> | <img width="400" src="https://github.com/user-attachments/assets/06fc21aa-6b2d-43b4-8563-cf8a0db8bc88" /> |
 
 ---
 

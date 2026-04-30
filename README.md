@@ -7,7 +7,7 @@ Zombie enemies actively **track and pursue the player**, engaging in boxing-styl
 This project was built to explore **AI behavior, gameplay state management, ability cooldown systems, and UI integration** within Unity.
 | | |
 |---|---|
-| <img width="470" src="https://github.com/user-attachments/assets/d002207e-876e-4a6b-adc6-a11dacd1eea9" /> | <img width="470" height="auto" alt="Recording 2026-04-29 215313 (1)" src="https://github.com/user-attachments/assets/34075dd7-7aa3-4572-ad96-a1be9cbdc233" />
+| <img width="420" src="https://github.com/user-attachments/assets/d002207e-876e-4a6b-adc6-a11dacd1eea9" /> | <img width="420" height="auto" alt="Recording 2026-04-29 215313 (1)" src="https://github.com/user-attachments/assets/34075dd7-7aa3-4572-ad96-a1be9cbdc233" />
 
  |
 
